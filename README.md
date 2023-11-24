@@ -7,7 +7,7 @@ For our **Codagon Challenge** submission, our primary focus was on developing an
 ## Initial Exploration and Visualization
 
 The initial steps of the challenge involved a meticulous exploration of the dataset, delving into various aspects of Leuven's transportation landscape. Through extensive data analysis, we gained valuable insights into traffic patterns, population density, transportation accessibility, and parking facilities.<br>
-In particular, we conducted numerous visualizations, which played a pivotal role in shaping our understanding of the existing transportation dynamics. Here an example of traffic flows of cars during peak hours (8AM), 
+In particular, we conducted numerous visualizations, which played a pivotal role in shaping our understanding of the existing transportation dynamics. Here an example of viz for car traffic flows during peak hours (8AM):
 
 ![Traffic Flow Visualization](cloropleth_leuven.png)
 
